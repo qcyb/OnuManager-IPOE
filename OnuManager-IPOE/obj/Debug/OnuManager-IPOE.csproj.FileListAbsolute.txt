@@ -1,0 +1,7 @@
+C:\Users\Cocaine\source\repos\OnuManager-IPOE\OnuManager-IPOE\bin\Debug\OnuManager-IPOE.exe.config
+C:\Users\Cocaine\source\repos\OnuManager-IPOE\OnuManager-IPOE\bin\Debug\OnuManager-IPOE.exe
+C:\Users\Cocaine\source\repos\OnuManager-IPOE\OnuManager-IPOE\bin\Debug\OnuManager-IPOE.pdb
+C:\Users\Cocaine\source\repos\OnuManager-IPOE\OnuManager-IPOE\obj\Debug\OnuManager-IPOE.csprojAssemblyReference.cache
+C:\Users\Cocaine\source\repos\OnuManager-IPOE\OnuManager-IPOE\obj\Debug\OnuManager-IPOE.csproj.CoreCompileInputs.cache
+C:\Users\Cocaine\source\repos\OnuManager-IPOE\OnuManager-IPOE\obj\Debug\OnuManager-IPOE.exe
+C:\Users\Cocaine\source\repos\OnuManager-IPOE\OnuManager-IPOE\obj\Debug\OnuManager-IPOE.pdb
